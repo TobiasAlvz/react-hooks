@@ -15,6 +15,7 @@ function App () {
     <div className="container">
       <h1>{count}</h1>
       <button onClick={increase}>+</button>
+      
       <button onClick={decrement}>-</button>
     </div>
   );
