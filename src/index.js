@@ -6,6 +6,7 @@ import './style.css';
 ReactDom.render (
   <div className="container">
     <App />
+    
   </div>,
   document.getElementById ('root')
 );
